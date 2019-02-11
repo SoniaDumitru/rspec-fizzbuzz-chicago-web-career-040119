@@ -9,4 +9,6 @@ elsif int % 5 == 0
 end
 elsif int % 15 == 0
   return FizzBuzz
+else
+  return nil
 end
